@@ -1,5 +1,4 @@
-Predicting MLB Home Runs
-Kyle Hirsch and Ian Suleski
+Predicting MLB Home Runs - Kyle Hirsch and Ian Suleski
 
 Baseball has always been an analytically driven sport with public statistics for virtually every action a player can take, and players being judged mainly on averages and offensive output. With a total of 162 games per regular season for each team, player consistency is key, and player value is determined mainly on consistency. Consistency at high levels in certain statistics hold more weight, such as statistics that measure offensive output. Players with higher measures of offensive output generate more runs for their team, which means more wins. As a tool for identifying player value, this study will attempt to construct a model that is able to predict a players' home run output for an upcoming season. The task of the model to be created in this project will be to predict home runs per plate appearance in an upcoming season for any MLB player given their offensive stats from the four sequential seasons immediately preceding. It is essential to predict home runs as a percentage of total plate appearances because total plate appearances can vary drastically from season to season. 
 
